@@ -13,7 +13,7 @@ export default function Calculadora() {
 
 <div>
 <button onClick={limpiar}>AC</button>
-<button ></button>
+<button onClick={handdleClick}></button>
 <button ></button>
 <button ></button>
 <button ></button>
